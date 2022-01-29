@@ -21,8 +21,6 @@ Extension pack for Students learning Java
 Visual Studio Code 1.63.0 <br/>
 > Note: This extension is tested with Visual Studio Code 1.63.0 and above
 
-## Installation
-
 ## Source Code
 <https://github.com/Imtiyaz2007/java-extension-pack-by-asteroid>
 ## License
