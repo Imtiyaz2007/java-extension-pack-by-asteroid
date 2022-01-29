@@ -1,0 +1,21 @@
+{
+    "name": "asteroid-java-extension-pack",
+    "displayName": "Java Extension Pack by Asteroid",
+    "description": "Java Extension pack for Beginner",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "VisualStudioExptTeam.vscodeintellicode",
+        "redhat.java",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-test",
+        "vscjava.vscode-java-dependency",
+        "asteroidsoftwares.asteroid-snippet"
+    ],
+    "license": "MIT"
+}
