@@ -2,6 +2,9 @@
     "name": "asteroid-java-extension-pack",
     "displayName": "Java Extension Pack by Asteroid",
     "description": "Java Extension pack for Beginner",
+    "icon": "images/icon128.png",
+    "author": "Asteroid Softwares",
+    "publisher": "AsteroidSoftwares",
     "version": "0.1.0",
     "engines": {
         "vscode": "^1.63.0"
