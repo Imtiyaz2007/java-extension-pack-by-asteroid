@@ -25,7 +25,5 @@ Visual Studio Code 1.63.0 <br/>
 
 ## Source Code
 <https://github.com/Imtiyaz2007/java-extension-pack-by-asteroid>
-## Extension on marketplace
-
 ## License
 <a href = "https://github.com/Imtiyaz2007/java-extension-pack-by-asteroid/blob/main/LICENSE">MIT<a>
